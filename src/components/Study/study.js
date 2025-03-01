@@ -4,7 +4,7 @@ import axios from 'axios';
 import "@/app/globals.css"
 
 // dk dkd 
-
+// dk
 const Study = () => {
 
     // dk  raut
