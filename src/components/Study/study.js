@@ -5,6 +5,11 @@ import "@/app/globals.css"
 
 const Study = () => {
 
+    // dk  raut
+
+    // raut 
+
+    // dfdfed
     const [formData,setFormData] = useState({
         id:"",
         name:""
