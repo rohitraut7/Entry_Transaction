@@ -3,6 +3,8 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import "@/app/globals.css"
 
+// dk dkd 
+
 const Study = () => {
 
     const [formData,setFormData] = useState({
