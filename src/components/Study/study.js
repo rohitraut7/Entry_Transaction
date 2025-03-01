@@ -3,7 +3,6 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import "@/app/globals.css"
 
-// dk dkd 
 
 const Study = () => {
 
@@ -11,7 +10,6 @@ const Study = () => {
 
     // raut 
 
-    // dfdfed
     const [formData,setFormData] = useState({
         id:"",
         name:""
